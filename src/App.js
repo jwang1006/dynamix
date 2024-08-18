@@ -150,7 +150,7 @@ function Banner() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">   
-              <span className="text-white font-bold text-xl">A Better Way To Display Art</span>
+              <span className="text-white font-bold text-xl">Art in Motion</span>
             </div>
             <nav> 
               <div className="flex items-center"> 
